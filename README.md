@@ -1,3 +1,8 @@
+**The task was solved due to articles:**
+1.https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html
+2.https://habr.com/ru/post/351168/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
